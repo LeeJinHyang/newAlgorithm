@@ -83,7 +83,6 @@ a.find('b')
 a.find('k')
 # -1 , 존재하지 않는 문자나 문자열인 경우 -1 반환
 
-
 ##문자열 위치 알려주기 --- index
 a = "Life is too short"
 a.index('t')
